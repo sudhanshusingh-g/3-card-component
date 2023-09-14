@@ -143,12 +143,18 @@ button:hover{
 @media screen and (min-width: 768px) {
     .container{
         flex-direction: row;
+        
+    }
+    .type2{
+        height: 60vh;
     }
     .type1{
         border-radius: 0.5rem 0 0 0.5rem;
+        height: 60vh;
     }
     .type3{
         border-radius:  0 0.5rem 0.5rem 0;
+        height: 60vh;
     }
     main{
         margin: 0;
